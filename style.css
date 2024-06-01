@@ -103,8 +103,11 @@ img {
 .velkommen {
     padding: 20px;
     background: url('./img/bg-service.jpeg') no-repeat center center/cover;
-
 }
+
+..overlay {
+    border-image: fill 0 linear-gradient(#01121fe4, #022037e1);
+  }
 
 .velkommen-content {
     display: flex;
@@ -189,10 +192,6 @@ img {
     border-radius: 10px 10px 0 0;
   }
 
-  .overlay {
-    border-image: fill 0 linear-gradient(#00254162, #022037cd);
-  }
-   
   .services-content {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

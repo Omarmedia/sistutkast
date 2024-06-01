@@ -850,18 +850,19 @@ img {
         width: 100%;
     } 
     /* PARTNER */
+     
      .logos {
         padding: 40px 0;
       }
   
       .logos-slide img {
-        height: 26px;
+        height: 22px;
         margin: 0 8px;
       }
   
       .logos:before,
       .logos:after {
-        width: 50px;
+        width: 40px;
       }
 
     

@@ -856,13 +856,13 @@ img {
       }
   
       .logos-slide img {
-        height: 22px;
-        margin: 0 8px;
+        height: 20px;
+        margin: 0 10px;
       }
   
       .logos:before,
       .logos:after {
-        width: 40px;
+        width: 50px;
       }
 
     

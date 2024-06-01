@@ -102,7 +102,7 @@ img {
 /* Velkommen */
 .velkommen {
     padding: 20px;
-    background: url('./img/kontaktBG.png') no-repeat center center/cover;
+    background: url('./img/bg-service.jpeg') no-repeat center center/cover;
 
 }
 
@@ -850,6 +850,20 @@ img {
         font-size: 24px;
         width: 100%;
     } 
+    /* PARTNER */
+     .logos {
+        padding: 40px 0;
+      }
+  
+      .logos-slide img {
+        height: 26px;
+        margin: 0 8px;
+      }
+  
+      .logos:before,
+      .logos:after {
+        width: 50px;
+      }
 
     
     /*Contact Section */

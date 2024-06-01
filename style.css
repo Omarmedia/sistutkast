@@ -105,7 +105,7 @@ img {
     background: url('./img/bg-service.jpeg') no-repeat center center/cover;
 }
 
-..overlay {
+.overlay {
     border-image: fill 0 linear-gradient(#01121fe4, #022037e1);
   }
 
